@@ -2,7 +2,7 @@
 
 | Học viên | MSSV | Lớp |
 |----------|------|-----|
-| Le Gia Hung | 2A202603706 | K5-L3A |
+| Lê Gia Hưngg | 2A202603706 | K5-L3A |
 
 **Cách chạy:** `python src/main.py --part 3` (Blue → `outputs/results.json`) · `python src/main.py --part 4` (Red → `outputs/attack_results.json`) · `python scripts/grade.py --submission-dir . --out outputs/grade_report.json`.
 
